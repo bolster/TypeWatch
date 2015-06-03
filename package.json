@@ -1,0 +1,16 @@
+{
+  "name": "jquery.typewatch",
+  "version": "2.1.0",
+  "description": "TypeWatch calls a function when a user has typed text in an input or textarea (including HTML 5 input types) and after the user has stopped typing for a specified amount of time.",
+  "main": "jquery.typewatch.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bolster/TypeWatch.git"
+  },
+  "author": "Adam Miskiewicz <adam@sk3vy.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bolster/TypeWatch/issues"
+  },
+  "homepage": "https://github.com/bolster/TypeWatch"
+}
